@@ -1,0 +1,5 @@
+X runs North to South
+Y runs East to West
+From datum 0,0,0 along y=0 was 95 deg
+x=0 was 58 deg east of north (heading 302)
+y=0 was 22 deg west of north (heading 22)
